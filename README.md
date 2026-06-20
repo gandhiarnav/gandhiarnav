@@ -169,48 +169,11 @@ Full-stack adaptive fitness & nutrition platform powered by **Gemini 2.0 Flash**
 - 🔹 Conducted literature reviews on medical image segmentation & XAI; reproduced published DL models on new datasets
 - 🔹 Trained and onboarded new contributors on annotation workflows and quality standards
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     EDUCATION
-     ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🎓 &nbsp;Education
-
-<table>
-<tr>
-<td>
-
-**🏫 Dayananda Sagar College of Engineering** — Bengaluru, India
-<br/>B.E. in Computer Science & Engineering (Data Science)
-<br/>📊 CGPA: **9.31** · *2023 – 2027*
-
-</td>
-<td>
-
-**🏛️ IIT Guwahati (Online)**
-<br/>BSc (Hons.) in Data Science & Artificial Intelligence
-<br/>📊 CPI: **8.47** · *2023 – Present*
-
-</td>
-</tr>
-</table>
 
 ### 📚 Relevant Coursework
 
 `Machine Learning` `Deep Learning` `Data Mining & Warehousing` `Statistical Inference` `Time Series Analysis` `Recommender Systems` `Algorithm Design & Analysis` `Data Structures & Algorithms` `Database Management Systems`
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     ACHIEVEMENTS
-     ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;Achievements
-
-| | Achievement |
-|---|---|
-| 🥈 | **2nd Place** — Clone Wars Web Development Competition, DSCE |
-| 📜 | Completed **Kaggle Deep Learning & Machine Learning** specialization tracks |
-| 🔬 | Research contribution to **ICMR-funded** Medical AI project |
-| 🎯 | Achieved **QWK 0.9273** on Diabetic Retinopathy multi-task grading |
-| 🌐 | Deployed production-grade full-stack platform with **3 independent services** |
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      GITHUB STATS
