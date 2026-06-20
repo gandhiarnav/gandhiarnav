@@ -40,11 +40,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandhiarnav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="320" />
 
-- 🔬 &nbsp;**Research Intern** — ICMR Fetal Anomaly Detection Project (Medical AI & XAI)
-- 🧠 &nbsp;Currently exploring **medical image segmentation** & **explainable deep learning**
-- 🏗️ &nbsp;Building full-stack apps with **FastAPI · React · PostgreSQL · Gemini AI**
-- 🎓 &nbsp;Dual-degree: **B.E. CS (Data Science)** + **BSc (Hons.) DS & AI from IIT Guwahati**
-- 🏆 &nbsp;**2nd Place** — Clone Wars Web Dev Competition
+
 - 📫 &nbsp;Reach me at **arnavgandhi10000@gmail.com**
 
 <br clear="right"/>
