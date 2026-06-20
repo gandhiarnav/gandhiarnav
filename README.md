@@ -41,7 +41,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandhiarnav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="320" />
 
 
-- 📫 &nbsp;Reach me at **arnavgandhi10000@gmail.com**
 
 <br clear="right"/>
 
