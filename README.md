@@ -10,7 +10,7 @@
 # Hey there, I'm Arnav Gandhi 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Medical+AI+%7C+Deep+Learning+%7C+Full-Stack+Engineering;Turning+Research+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Deep+Learning+%7C+Full-Stack+Engineering;Turning+Research+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
